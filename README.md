@@ -1,0 +1,1 @@
+# Task-10483-Prepare-dataset-for-tensorflow-model-maker-for-gesture-detection.
